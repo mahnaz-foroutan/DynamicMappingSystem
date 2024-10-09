@@ -1,0 +1,8 @@
+{
+  "Mappings": {
+    "Id": "ReservationId",
+    "GuestName": "CustomerName",
+    "CheckIn": "ArrivalDate",
+    "CheckOut": "DepartureDate"
+  }
+}
